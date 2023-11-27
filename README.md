@@ -23,11 +23,11 @@
     <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">MBTI (Myers–Briggs Type Indicator)</a>. The test is based from this <a href="http://www.lrjj.cn/encrm1.0/public/upload/MBTI-personality-test.pdf">source</a>. 
     <br />
     <br />
-    <a href="https://r-21-mbti-personality-test-app.netlify.app">View Demo</a>
+    <a href="https://shashvat-mbti.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/rauf-21/mbti-personality-test-app/issues">Report Bug</a>
+    <a href="https://github.com/shashvat-singham/myers-briggs-personality-prediction/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rauf-21/mbti-personality-test-app/issues">Request Feature</a>
+    <a href="https://github.com/shashvat-singham/myers-briggs-personality-prediction/issues">Request Feature</a>
   </p>
 </div>
 
@@ -40,9 +40,7 @@
 
 ## Contact
 
-Abdul Rauf - rauf21dev@gmail.com
-
-Project Link: [https://github.com/rauf-21/mbti-personality-test-app](https://github.com/rauf-21/mbti-personality-test-app)
+Project Link: [https://github.com/shashvat-singham/myers-briggs-personality-prediction.git](https://github.com/shashvat-singham/myers-briggs-personality-prediction.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

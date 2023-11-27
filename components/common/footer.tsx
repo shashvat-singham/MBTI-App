@@ -29,16 +29,16 @@ export default function Footer() {
         </Link>
       </Text>
       <Text>
-        🔨 Made by{" "}
+         Made by{" "}
         <Link
-          href="https://github.com/rauf-21"
+          href="https://github.com/shashvat-singham/myers-briggs-personality-prediction.git"
           target="_blank"
         >
           <Button
             colorScheme="primary"
             variant="link"
           >
-            rauf-21
+            Shashvat Singham
           </Button>
         </Link>
       </Text>
